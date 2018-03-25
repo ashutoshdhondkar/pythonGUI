@@ -13,7 +13,7 @@ button4=Button(root,text="button-4",bg="yellow",fg="purple")
 
 # creating grid
 button1.grid(row=0,column=0,padx=10,pady=10)
-# padx and pady options are used to give indicate how much space should be left around component
+# padx and pady options are used to indicate how much space should be left around component
 # horizontally and vertically (respectively)
 button2.grid(row=0,column=1)
 button3.grid(row=0,column=2,padx=60,pady=10)
